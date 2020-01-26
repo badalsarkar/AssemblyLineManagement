@@ -13,7 +13,17 @@ all orders have been processed. Any station that has used all of the items in st
 become incomplete due to a lack of inventory at one or more stations. At the end of all processing, the line manager 
 lists the completed orders and the orders that are incomplete.
 
-
+The program mainly reads data from files. 
 To run the executable on Linux 
 
 `./run_linux Inventory1.dat Inventory2.dat CustomerOrders.dat AssemblyLine.dat`
+
+
+#### Methods and tools used
+- Modular program desing
+- Object Oriented Programming
+- C++ advanced data structure vector, deque
+- C++ STL
+- C++ algorithm from STL
+- GDB debugger
+
