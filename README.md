@@ -19,11 +19,16 @@ To run the executable on Linux
 `./run_linux Inventory1.dat Inventory2.dat CustomerOrders.dat AssemblyLine.dat`
 
 
-#### Methods and tools used
-- Modular program desing
-- Object Oriented Programming
+#### Screenshot of the output
+![screenshot1](assembly1.png)
+
+
+#### This project used advanced C++ features which includes:  
 - C++ advanced data structure vector, deque
 - C++ STL
 - C++ algorithm from STL
-- GDB debugger
+
+#### Tools used
+- Vim
+- GDB Debugger
 
