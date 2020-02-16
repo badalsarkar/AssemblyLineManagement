@@ -20,7 +20,10 @@ To run the executable on Linux
 
 
 #### Screenshot of the output
-<img src='images/assembly1.png' width=100>
+<img src='images/assembly1.png' width=300>
+<img src='images/assembly2.png' width=300>
+<img src='images/assembly3.png' width=300>
+<img src='images/assembly4.png' width=300>
 
 
 #### This project used advanced C++ features which includes:  
