@@ -20,7 +20,7 @@ To run the executable on Linux
 
 
 #### Screenshot of the output
-![screenshot1](assembly1.png =100x20)
+<img src='images/assembly1.png' width=100>
 
 
 #### This project used advanced C++ features which includes:  
